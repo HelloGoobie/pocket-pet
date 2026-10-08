@@ -2,7 +2,7 @@
 
 A tiny pet that lives on your Transport Tycoon screen. It walks along the bottom, climbs your minimap and the sides of the screen, swings across the ceiling, levels up as you play, and needs feeding with the money you earn. If you stop earning, it starves.
 
-**Live app:** https://hellogoobie.github.io/pocket-pets/
+**Live app:** https://hellogoobie.github.io/pocket-pet/
 
 
 ---
