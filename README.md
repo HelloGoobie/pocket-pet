@@ -42,7 +42,7 @@ Add it as a **user app** using the live URL above. Click your pet to open its pa
 
 ### Money detection
 
-The app watches the `money`, `cash` and `wallet` values from the game. If your server uses a different name, type it into **Settings → Money key**. The panel shows `money data: … ✓` once it sees one. The **Test drop** button drops food so you can check it works.
+The app watches the `money`, `cash` and `wallet` values from the game. 
 
 ## Trails
 
